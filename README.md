@@ -25,7 +25,7 @@ Example:
 
 ## Installation 🛠️
 
-1. Download the Python file: [MetricMate.py]().
+1. Download the Python file: [MetricMate.py](https://github.com/duzcoder/MetricMate/blob/main/MetricMate.py).
 2. Run the program in your terminal or command prompt:
    ```bash
    python MetricMate.py
